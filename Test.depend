@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1671832214 source:c:\users\zolta\desktop\test\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+
+1671913607 source:c:\users\zolta\desktop\copy\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+
+1672681179 source:c:\users\zolta\desktop\final\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+
